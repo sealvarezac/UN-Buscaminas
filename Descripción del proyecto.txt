@@ -1,0 +1,6 @@
+UN Minazo
+Sindy Tatiana Bustamante Cardenas - sibustamantec@unal.edu.co
+Sebastián Mauricio Alvarez Acosta - sealvarezac@unal.edu.co
+Juan Sebastián Sosa Aldana - jusosaa@unal.edu.co
+UN Minazo es una adaptación para consola del clásico juego "Buscaminas", el usuario se encontrará con un tablero cubierto en el que deberá ir descubriendo casillas y evitar destapar una bomba, para lograrlo ira ingresando coordenadas cartesianas.
+La cantidad de minas y el tamaño del tablero en cada partida dependerá de la dificultad escogida por el jugador, estas partidas podrán ser guardadas para retomar en una próxima ocasión si así lo desea el usuario.
